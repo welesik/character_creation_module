@@ -59,6 +59,5 @@ class Healer(Character):
 
 
 warrior = Warrior('Кодослав')
-print(warrior)
-print(warrior.attack())
->>>>>>> a4fc54d (Game_module.part1)
+print (warrior)
+print (warrior.attack())
